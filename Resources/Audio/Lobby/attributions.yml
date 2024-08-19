@@ -69,3 +69,12 @@
   copyright: "every light is blinking at once by Alexander Divine."
   source: "https://soundcloud.com/alexanderdivine/every-light-is-blinking-at-once"
 
+- files: ["Still_Alive_.ogg"]
+  license: "Custom"
+  copyright: "Still Alive from the game Portal (added by Loksik)"
+  source: "https://soundcloud.com/gdfhdhsoundcloud/portal-still-alive-2"
+
+- files: ["SuperNovaInTheCatacombs.ogg"]
+  license: "CC-BY-SA-3.0"
+  copyright: "Super Nova In The Catacombs by WigWoo1 on youtube. https://www.youtube.com/@WigWoo1"
+  source: "https://www.youtube.com/watch?v=ly3-rhDTeOU&ab_channel=WigWoo1"
